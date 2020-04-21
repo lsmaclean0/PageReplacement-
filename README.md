@@ -1,0 +1,2 @@
+# PageReplacement-
+Implements Scheduling algorithms 
